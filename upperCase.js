@@ -1,1 +1,0 @@
-let text = data.toString().toUpperCase();
